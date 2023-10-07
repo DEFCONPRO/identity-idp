@@ -79,7 +79,7 @@
     "mocha": "^10.0.0",
     "mq-polyfill": "^1.1.8",
     "msw": "^1.2.1",
-    "postcss": "^8.4.22",
+    "postcss": "^8.4.31",
     "prettier": "^2.7.1",
     "quibble": "^0.6.17",
     "react-test-renderer": "^17.0.2",
